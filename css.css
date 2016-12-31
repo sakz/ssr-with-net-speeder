@@ -1527,3 +1527,10 @@ pre .support.value  {
     font-weight: normal;
     color: #3b8bba; /* skinbuilder block-mine-text-low with #1f8dd6 as primary */
 }
+code{
+    padding: 6px;
+    font-size: 1.3em;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
